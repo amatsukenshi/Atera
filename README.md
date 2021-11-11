@@ -1,3 +1,2 @@
 # Atera Community Website
-
-## Created by Auri
+### Created by Auri (<aurimajitenshi@yahoo.com>) /w Next.js and Sanity.io

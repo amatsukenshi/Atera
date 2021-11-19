@@ -1,6 +1,11 @@
 @import "bootstrap/scss/bootstrap.scss";
 
-$backgroundColor: rgb(52 50 58);
+$backgroundColor: rgb(52, 50, 58);
+
+#__next {
+  width: 100vw;
+  height: 100vh;
+}
 
 html,
 body {
